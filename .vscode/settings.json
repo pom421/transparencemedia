@@ -3,7 +3,7 @@
         "statusBar.background": "#19555f" // Change this color!
     },
     "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true
+        "source.fixAll.eslint": "explicit"
     },
     "editor.formatOnSave": false,
     "files.exclude": {
